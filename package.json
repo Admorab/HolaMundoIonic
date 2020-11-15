@@ -1,7 +1,7 @@
 {
   "name": "myApp",
   "version": "0.0.1",
-  "author": "Ionic Framework",
+  "author": "Ricardo Andrés Bolaños",
   "homepage": "https://ionicframework.com/",
   "scripts": {
     "ng": "ng",
@@ -36,6 +36,7 @@
     "@angular/language-service": "~10.0.0",
     "@capacitor/cli": "2.4.2",
     "@ionic/angular-toolkit": "^2.3.0",
+    "@ionic/lab": "3.2.9",
     "@types/jasmine": "~3.5.0",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "^12.11.1",
@@ -52,5 +53,5 @@
     "tslint": "~6.1.0",
     "typescript": "~3.9.5"
   },
-  "description": "An Ionic project"
+  "description": "An Ionic project made by Ricardo A. Bolaños"
 }
